@@ -4,7 +4,7 @@ namespace AssignmentConcert;
 
 public class Menu
 {
-    private static List<string> concertMenu =
+    private static readonly List<string> concertMenu =
 [
     "1. Availible Concerts",
     "2. Add new Concert,",
@@ -12,13 +12,6 @@ public class Menu
     "4. Delete Concert",
     "5. Exit"
 ];
-
-
-    public Menu()
-    {
-
-    }
-
 
     public static void ConcertMenu()
     {

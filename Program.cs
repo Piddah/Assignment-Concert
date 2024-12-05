@@ -10,14 +10,8 @@ List<string> signIn =
 Console.Clear();
 Console.WriteLine("Welcome to Ticket Master");
 Console.WriteLine();
-try
-{
-    SignIn();
-}
-catch (ArgumentException ex)
-{
-    Console.WriteLine(ex);
-}
+
+SignIn();
 
 void SignIn()
 {
