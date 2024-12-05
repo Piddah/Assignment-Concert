@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\AssignmentConcert\bin\Debug\net9.0\AssignmentConcert.exe
+C:\Users\Hp\Desktop\C#\AssignmentConcert\bin\Debug\net9.0\AssignmentConcert.deps.json
+C:\Users\Hp\Desktop\C#\AssignmentConcert\bin\Debug\net9.0\AssignmentConcert.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\AssignmentConcert\bin\Debug\net9.0\AssignmentConcert.dll
+C:\Users\Hp\Desktop\C#\AssignmentConcert\bin\Debug\net9.0\AssignmentConcert.pdb
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.dll
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\refint\AssignmentConcert.dll
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.pdb
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\AssignmentConcert.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\AssignmentConcert\obj\Debug\net9.0\ref\AssignmentConcert.dll
